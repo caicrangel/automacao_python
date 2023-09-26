@@ -1,4 +1,5 @@
-#! python3
+#pegando as coordenadas X e Y do mouse em tempo real
+
 import pyautogui, sys
 print('Press Ctrl-C to quit.')
 try:
